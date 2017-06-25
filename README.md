@@ -1,6 +1,8 @@
 # Swagger UI responsive theme
 
 With inspiration from the [Auth0 api explorer](https://auth0.com/docs/apiv2) the original Swagger UI repo is modified to use a responsive layout.
+[![GitHub version](https://badge.fury.io/gh/omnifone%2Fslate-swagger-ui.svg)](https://badge.fury.io/gh/omnifone%2Fslate-swagger-ui)
+
 [![NPM version](https://badge.fury.io/js/swagger-ui.png)](http://badge.fury.io/js/swagger-ui)
 
 [![Dependency Status](https://david-dm.org/swagger-api/swagger-ui/status.svg)](https://david-dm.org/swagger-api/swagger-ui)
